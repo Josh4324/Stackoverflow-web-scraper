@@ -1,0 +1,22 @@
+{
+  "name": "stackoverflow",
+  "version": "1.0.0",
+  "description": "CLI for getting stack overflow google searcg result",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Google",
+    "Stack Overflow",
+    "CLI"
+  ],
+  "author": "Joshua Adesanya",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "cheerio": "^1.0.0-rc.3",
+    "puppeteer": "^5.2.1",
+    "yargs": "^15.4.1"
+  }
+}
